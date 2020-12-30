@@ -1,0 +1,184 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav-item a{
+  
+    font-size: 20px;
+}
+.logo img{
+    margin-top: 5rem;
+}
+.nav-item {
+    border: 0.2px solid rgb(247, 234, 234);
+
+}
+
+.comdet h3{
+    font-size: 17px;
+    color: red;
+    margin-top: 1.9rem;
+    margin-top: 0.9rem;
+}
+.comdet p{
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 45px;
+}
+.comdet h5{
+    font-size: 14px;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+.comdet span{
+    font-weight: bold;
+    
+}
+
+.comdet h6{
+    margin-left: 90px;
+    font-weight: normal;
+    font-size: 14px;
+    margin-top: 0.9rem;
+    line-height: 23px;
+}
+.comdet a{
+    font-size: 14px;
+    color: black;
+    margin-left: 90px;
+}
+
+.management h3{
+    font-size: 17px;
+    color: red;
+    margin-top: 1.9rem;
+}
+
+.management img{
+    height: 75%;
+    width: 85%;
+}
+
+.management p{
+    margin-left: 90px;
+    font-weight: normal;
+    font-size: 14px;
+    margin-top: 0.9rem;
+    line-height: 23px;
+}
+
+
+.socialresp h3{
+    font-size: 17px;
+    color: red;
+    margin-bottom: 1.5rem;
+    margin-top: 1.9rem;
+}
+
+.socialresp p{
+    margin-left: 90px;
+    font-weight: normal;
+    font-size: 14px;
+    margin-top: 0.9rem;
+    line-height: 23px;
+}
+
+
+.kazimedia h3{
+    font-size: 17px;
+    color: red;
+    margin-top: 1.9rem;
+    margin-top: 0.9rem;
+}
+
+.kazimedia p{
+    margin-left: 90px;
+    font-weight: normal;
+    font-size: 14px;
+    margin-top: 0.9rem;
+    line-height: 23px;
+}
+
+.kazifood h3{
+    font-size: 17px;
+    color: red;
+    margin-top: 1.9rem;
+    margin-left: 90px;
+}
+
+.kazifood p{
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 23px;
+}
+
+
+.kazifood img{
+    height: 13%;
+    width: 27%;
+}
+
+
+
+.sysnova h3{
+    font-size: 17px;
+    color: red;
+    margin-top: 1.9rem;
+    margin-top: 0.9rem;
+}
+
+.sysnova p{
+    margin-left: 90px;
+    font-weight: normal;
+    font-size: 14px;
+    margin-top: 0.9rem;
+    line-height: 23px;
+}
+
+
+.sysnova img{
+    height: 25%;
+    width: 60%;
+}
+
+.contactus .write  a{
+    margin-left: 4rem;
+    color: rgb(0, 0, 94);
+    font-weight: bold;
+}
+
+.contactus h3{
+    font-size: 15px;
+    color: red;
+    margin-left: 4rem;
+    font-weight: bold;
+
+}
+
+.contactus p{
+    margin-left: 4rem;
+    font-size: 15px;
+    font-size: 14px;
+    line-height: 8px;
+}
+.email a{
+    color: black;
+}
+
+.contactus .phn p{
+    font-size: 13px;
+    
+}
+
+.line p{
+    line-height: 22px;
+    font-size: 13px;
+    margin-left: 6.5rem;
+}
+
+@media only screen and (max-width:388px){
+    .contactus p{
+        line-height: 15px;
+    }
+}
